@@ -1,0 +1,245 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.random-podcasts-F5K {
+  box-sizing: border-box;
+  padding: 5.4rem 43.4rem 9.4rem 59.25rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7ede8;
+}
+.random-podcasts-F5K .auto-group-wjgh-9Ah {
+  margin: 0rem 0rem 4.4rem 3.15rem;
+  box-sizing: border-box;
+  padding: 1.2rem 26.1rem 0.3rem 0rem;
+  width: calc(100% - 3.15rem);
+  height: 4.1rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.random-podcasts-F5K .auto-group-wjgh-9Ah .menus-q3X {
+  margin-right: 20.9rem;
+  height: 100%;
+  display: flex;
+  column-gap: 6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.random-podcasts-F5K .auto-group-wjgh-9Ah .menus-q3X .home-YyX {
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.6000000238;
+  color: #000000;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.random-podcasts-F5K .auto-group-wjgh-9Ah .menus-q3X .joshtalks-GPj {
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.6000000238;
+  color: #000000;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.random-podcasts-F5K .auto-group-wjgh-9Ah .menus-q3X .frame-11-bwo {
+  width: 8.8rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.6000000238;
+  color: #000000;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.random-podcasts-F5K .auto-group-wjgh-9Ah .about-WJ5 {
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.6000000238;
+  color: #000000;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.random-podcasts-F5K .title-ShX {
+  margin: 0rem 23.85rem 3.1rem 0rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.random-podcasts-F5K .title-ShX .random-podcasts-mzh {
+  margin-bottom: 1.9rem;
+  text-align: center;
+  font-size: 5.93rem;
+  font-weight: 700;
+  line-height: 1.2000000772;
+  letter-spacing: -0.1186rem;
+  color: #000000;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.random-podcasts-F5K .title-ShX .available-on-your-favorite-platform-Hi9 {
+  text-align: center;
+  font-size: 2.265rem;
+  font-weight: 500;
+  line-height: 1.6000001011;
+  color: #4c4c4c;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.random-podcasts-F5K .cards-ckR {
+  margin: 0rem 23.95rem 3.845rem 0rem;
+  width: 55.3rem;
+  height: 20.37rem;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.random-podcasts-F5K .cards-ckR .card-LwK {
+  box-sizing: border-box;
+  padding: 1.6rem 4.3rem 0rem 1.6rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  border: solid 0.2rem #000000;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.random-podcasts-F5K .cards-ckR .card-LwK .auto-group-1adw-H5s {
+  margin-right: 4.2rem;
+  width: 22.1rem;
+  height: 19.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.random-podcasts-F5K .cards-ckR .card-LwK .auto-group-j7p5-zky {
+  height: 15.3rem;
+  flex-shrink: 0;
+}
+.random-podcasts-F5K .cards-ckR .card-LwK .auto-group-j7p5-zky .mahabharat-ki-ansuni-kahaniyaan-ami-ganatra-MLd {
+  max-width: 23.1rem;
+  font-size: 2.265rem;
+  font-weight: 700;
+  line-height: 1.3999999832;
+  letter-spacing: -0.0453rem;
+  color: #000000;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+}
+.random-podcasts-F5K .cards-oTX {
+  margin: 0rem 23.95rem 3.845rem 0rem;
+  width: 55.3rem;
+  height: 20.37rem;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.random-podcasts-F5K .cards-oTX .card-wJq {
+  box-sizing: border-box;
+  padding: 1.6rem 0.5rem 2.17rem 1.6rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.2rem #000000;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.random-podcasts-F5K .cards-oTX .card-wJq .auto-group-naxt-fVj {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.random-podcasts-F5K .cards-oTX .card-wJq .auto-group-naxt-fVj .cover-title-dBf {
+  margin-right: 8.2rem;
+  width: 16.6rem;
+  height: 16.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.random-podcasts-F5K .cards-oTX .card-wJq .auto-group-naxt-fVj .how-hackers-hack-your-phone-realtalk-s02-ep-41-m2y {
+  margin-bottom: 1.7rem;
+  max-width: 28.4rem;
+  font-size: 2.265rem;
+  font-weight: 700;
+  line-height: 1.3999999832;
+  letter-spacing: -0.0453rem;
+  color: #000000;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.random-podcasts-F5K .cards-Cty {
+  margin-right: 23.95rem;
+  width: 55.3rem;
+  height: 20.37rem;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.random-podcasts-F5K .cards-Cty .card-Yhw {
+  box-sizing: border-box;
+  padding: 1.6rem 2.5rem 2.17rem 1.6rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.2rem #000000;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.random-podcasts-F5K .cards-Cty .card-Yhw .auto-group-pdr3-tmo {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.random-podcasts-F5K .cards-Cty .card-Yhw .auto-group-pdr3-tmo .cover-title-4AV {
+  margin-right: 7.4rem;
+  width: 16.6rem;
+  height: 16.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.random-podcasts-F5K .cards-Cty .card-Yhw .auto-group-pdr3-tmo .change-your-brain-dr-andrew-huberman-bgD {
+  margin-bottom: 2.5rem;
+  max-width: 27.2rem;
+  font-size: 2.265rem;
+  font-weight: 700;
+  line-height: 1.3999999832;
+  letter-spacing: -0.0453rem;
+  color: #000000;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  flex-shrink: 0;
+}

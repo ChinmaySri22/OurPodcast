@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>Home</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat+Alternates%3A500%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A500%2C700"/>
+  <link rel="stylesheet" href="./styles/home.css"/>
+<style>
+        #loginBtn {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 999;
+        }.modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+
+        .modal-content {
+            background-color: #fefefe;
+            margin: 15% auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%;
+        }
+
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;}
+</style>
+</head>
+
+<body>
+
+    <div class="home-XE9">
+  <div class="navigation-fDs">
+    <div class="auto-group-n2im-YS5">
+      <div class="menus-49X" style="margin-right: 100px; font-size: 20px;">
+        <p class="joshtalks-MVT"><a href="joshtalks.html">Joshtalks</a></p>
+       
+      </div>
+      <div style="margin-right: 100px; font-size: 20px;"> <a href="Wowtalks.html">Wowtalks</a></div>
+     
+      <div style="margin-right: 100px; font-size: 20px;"> <a href ="about.html">About</a></div>
+  
+    </div>
+    <div class="buttons-F7X">
+      <div class="button-C2m" style="margin-right: 100px; font-size: 15px;"> <a href="random-podcasts.html">Random-Podcasts</a></div>
+    </div>
+  </div>
+  <p class="our-podcast-GHX">
+    <span class="our-podcast-GHX-sub-0">
+    Our
+    <br/>
+    
+    </span>
+    <span class="our-podcast-GHX-sub-1">Podcast</span>
+  </p>
+  <p class="podcast-of-your-favorite-genre-for-free-St9">Podcast of your favorite genre for free.</p>
+  <div class="covers-w4D">
+    <div class="cover-ymb">
+      <img class="cover-6rD" src="./assets/cover.png"/>
+      <div class="auto-group-rzmk-d5T">
+        <div class="vector-8Y1">
+          <div class="auto-group-pfff-4gZ">
+            <img class="vector-7gm" src="./assets/vector-Rus.png"/>
+            <img class="group-33497-Sj3" src="./assets/group-33497.png"/>
+          </div>
+          <img class="vector-BRj" src="./assets/vector-JYy.png"/>
+          <img class="star-2-L3j" src="./assets/star-2.png"/>
+        </div>
+        <p class="selfconfidence-sJZ">Self–confidence</p>
+      </div>
+      <div class="platform-wJR">
+        <img class="google-podcast-fER" src="./assets/google-podcast-rTK.png"/>
+        <img class="spotify-b85" src="./assets/spotify-odj.png"/>
+        <img class="youtube-L5f" src="./assets/youtube-wU5.png"/>
+      </div>
+    </div>
+    <div class="cover-pWd">
+      <img class="image-3-Zz1" src="./assets/image-3.png"/>
+      <p class="mythology-Hf7">Mythology</p>
+      <div class="platform-PTF">
+        <img class="google-podcast-X3f" src="./assets/google-podcast.png"/>
+        <img class="spotify-FkM" src="./assets/spotify-7S1.png"/>
+        <img class="youtube-o1B" src="./assets/youtube-h9T.png"/>
+      </div>
+    </div>
+    <div class="cover-KER">
+      <img class="image-3-TLd" src="./assets/image-3-G6D.png"/>
+      <div class="platform-n81">
+        <img class="google-podcast-7g5" src="./assets/google-podcast-t8h.png"/>
+        <img class="spotify-rtZ" src="./assets/spotify.png"/>
+        <img class="youtube-ooo" src="./assets/youtube-Jqf.png"/>
+      </div>
+      <img class="image-1-MaR" src="./assets/image-1.png"/>
+      <img class="image-1-gMo" src="./assets/image-1-kX3.png"/>
+      <p class="games-dH3">Games</p>
+    </div>
+  </div>
+</div>
+    <button id="loginBtn">Login</button>
+    <div id="loginModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <form>
+                <div class="wrapper">
+<forn action="">
+<h1>Login</h1>
+
+<div class="input-box">
+<input type="text" placeholder="Username" required>
+</div>
+
+<div class="input-box">
+<input type="password" placeholder="Password" required>
+</div>
+
+<button type="submit" class="btn">Login</button>
+<div class="register-link">
+<p><a href="#">Register here</a></p>
+</div>
+</form>
+</div>
+            </form>
+        </div>
+    </div>
+    <script>
+        // Get the login button and the login modal
+        var loginBtn = document.getElementById('loginBtn');
+        var loginModal = document.getElementById('loginModal');
+
+        // Get the <span> element that closes the modal
+        var closeBtn = document.querySelector('.close');
+
+        // When the user clicks on the login button, open the modal
+        loginBtn.addEventListener('click', function() {
+            loginModal.style.display = 'block';
+        });
+
+        // When the user clicks on <span> (x), close the modal
+        closeBtn.addEventListener('click', function() {
+            loginModal.style.display = 'none';
+        });
+
+        // When the user clicks anywhere outside of the modal, close it
+        window.addEventListener('click', function(event) {
+            if (event.target == loginModal) {
+                loginModal.style.display = 'none';
+            }
+        });
+    </script>
+</body>
+
+</html>

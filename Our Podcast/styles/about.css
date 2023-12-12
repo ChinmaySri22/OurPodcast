@@ -1,0 +1,257 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.about-qzy {
+  box-sizing: border-box;
+  padding: 0rem 6.05rem 13.8rem 15.232rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.about-qzy .auto-group-qoso-XN1 {
+  margin: 0rem 50.05rem 4.587rem 40.868rem;
+  box-sizing: border-box;
+  padding: 4.7rem 0rem 3.513rem 0rem;
+  width: calc(100% - 90.918rem);
+  height: 12.3132rem;
+  flex-shrink: 0;
+}
+.about-qzy .auto-group-qoso-XN1 .navigation-oqK {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.about-qzy .auto-group-qoso-XN1 .navigation-oqK .menus-xTK {
+  margin: 0rem 28.2rem 0.3rem 0rem;
+  height: 2.6rem;
+  display: flex;
+  column-gap: 6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-qzy .auto-group-qoso-XN1 .navigation-oqK .menus-xTK .home-StH {
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.6000000238;
+  color: #000000;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-qzy .auto-group-qoso-XN1 .navigation-oqK .menus-xTK .joshtalks-MVT {
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.6000000238;
+  color: #000000;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-qzy .auto-group-qoso-XN1 .navigation-oqK .menus-xTK .frame-11-J9o {
+  width: 8.8rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.6000000238;
+  color: #000000;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.about-qzy .auto-group-qoso-XN1 .navigation-oqK .buttons-nam {
+  width: 17.6rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.about-qzy .auto-group-qoso-XN1 .navigation-oqK .buttons-nam .button-jku {
+  width: 100%;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  border-radius: 0.8rem;
+}
+.about-qzy .auto-group-h2kz-pXT {
+  margin-bottom: 6.9016rem;
+  width: 100%;
+  height: 35.4984rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-qzy .auto-group-h2kz-pXT .group-33514-YyF {
+  margin-right: 15.118rem;
+  width: 33.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-qzy .auto-group-h2kz-pXT .group-33514-YyF .illustration-01-tXK {
+  margin: 0rem 5.524rem 3.847rem 5.441rem;
+  box-sizing: border-box;
+  padding: 0rem 0rem 0.551rem 4.3rem;
+  width: calc(100% - 10.9655rem);
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-qzy .auto-group-h2kz-pXT .group-33514-YyF .illustration-01-tXK .group-33511-BWR {
+  margin: 0rem 0rem 0.3rem 6.4rem;
+  width: 16.7999rem;
+  height: 13.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-qzy .auto-group-h2kz-pXT .group-33514-YyF .illustration-01-tXK .auto-group-xdq3-gxy {
+  margin-right: 4.7468rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.about-qzy .auto-group-h2kz-pXT .group-33514-YyF .illustration-01-tXK .auto-group-xdq3-gxy .item-1-qay {
+  margin: 2.1rem 1.3rem 0rem 0rem;
+  width: 6.4rem;
+  height: 10rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-qzy .auto-group-h2kz-pXT .group-33514-YyF .illustration-01-tXK .auto-group-xdq3-gxy .vector-1551-kxq {
+  margin: 2.2rem 1.922rem 0rem 0rem;
+  width: 1.2777rem;
+  height: 1.0249rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-qzy .auto-group-h2kz-pXT .group-33514-YyF .illustration-01-tXK .auto-group-xdq3-gxy .vector-1550-GRP {
+  width: 2.9878rem;
+  height: 2.8534rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-qzy .auto-group-h2kz-pXT .group-33514-YyF .this-is-not-the-era-of-overthinking-just-go-online-and-watch-podcast-ogD {
+  max-width: 33.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.6000000238;
+  color: #000000;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.about-qzy .auto-group-h2kz-pXT .talk-listen-get-inspired-by-every-minute-of-it-uDT {
+  margin: 1.202rem 18.4rem 0rem 0rem;
+  max-width: 73.4rem;
+  text-align: center;
+  font-size: 5.93rem;
+  font-weight: 700;
+  line-height: 1.2000000772;
+  letter-spacing: -0.1186rem;
+  color: #000000;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.about-qzy .auto-group-h2kz-pXT .auto-group-nya1-n2M {
+  margin: 4.2rem 0rem 6.998rem 0rem;
+  height: calc(100% - 11.1984rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-qzy .auto-group-h2kz-pXT .auto-group-nya1-n2M .ideas-uMs {
+  margin: 0rem 0.033rem 3.903rem 0rem;
+  width: 18.1665rem;
+  height: 17.7968rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-qzy .auto-group-h2kz-pXT .auto-group-nya1-n2M .need-ideas-watch-some-podcasts-Rr1 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.6000000238;
+  color: #000000;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-qzy .quote-9GD {
+  margin: 0rem 29.85rem 0rem 30.668rem;
+  box-sizing: border-box;
+  padding: 4rem 20.45rem 11rem 26.25rem;
+  width: calc(100% - 60.518rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7ede8;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.about-qzy .quote-9GD .item--TGu {
+  text-align: center;
+  font-size: 9.595rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.1919rem;
+  color: #cd4631;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-qzy .quote-9GD .one-of-the-best-daily-website-that-covers-every-topic-Ax1 {
+  max-width: 63.5rem;
+  text-align: center;
+  font-size: 3.665rem;
+  font-weight: 700;
+  line-height: 1.3999999792;
+  letter-spacing: -0.0733rem;
+  color: #000000;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  flex-shrink: 0;
+}
